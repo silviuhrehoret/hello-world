@@ -1,2 +1,5 @@
 # hello-world
-Just my first test repository
+Hello-world
+============
+
+Silviu here, curios about the Github!
